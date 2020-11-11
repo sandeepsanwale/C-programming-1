@@ -1,2 +1,3 @@
 # C-programming
-###In this Repository
+   In this repo just uploded the basic programs of c language...
+   
